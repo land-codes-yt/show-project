@@ -32,13 +32,13 @@ const projects = [
     },
     {
         id: 4,
-        title: "بوت الدعم الفني",
-        description: "بوت ذكي للرد على استفسارات العملاء مع دعم متعدد اللغات.",
-        imageUrl: "images/bot2.jpg",
-        zipUrl: "projects/support-bot.zip",
+        title: "بوت تذاكر",
+        description: " بوت تذاكر اسطوري مطور جدا",
+        imageUrl: "images/profile.jpg",
+        zipUrl: "projects/ticket.zip",
         type: "bot",
-        date: "28 مايو 2023",
-        size: "3.5 MB"
+        date: "2 أبريل 2025",
+        size: "34.50 KB"
     },
     {
         id: 5,
